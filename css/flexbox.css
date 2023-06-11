@@ -62,7 +62,7 @@
 	text-align: center;
 	display: flex;
 	flex-direction: column;
-	flex-grow: 10;
+	flex-grow: 1;
 }
 
 .videoSobre-sobre-list {
@@ -70,7 +70,7 @@
 }
 
 .videoSobre-video {
-	flex-grow: 1;
+	flex-grow: 2;
 }
 
 /* Responsive */
